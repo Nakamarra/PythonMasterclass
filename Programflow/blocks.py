@@ -3,3 +3,5 @@ for i in range (1, 13):
 	print("*" * 39)
 
 print("hello.")
+
+print("Hello world.")
